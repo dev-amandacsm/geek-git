@@ -42,7 +42,8 @@ Descrever como instalar e preparar o ambiente de desenvolvimento para que ele po
 
 ## Meta
 Seu nome - [@SeuTwitter](https://twitter.com/seuTwitter) - seumeail@gmail.com
-Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+Distribuído sobre a licença. 
+Veja `LICENÇA` para mais informações.
 [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
 
 
